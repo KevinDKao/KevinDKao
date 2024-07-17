@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Kevin Kao
-- 👀 I'm interested in making silly, interesting scripts and apps. 
-- 🌱 I’m currently learning the microstructure of financial exchanges, machine learning and predictive modeling/regression, and application development. Some interest in front-end development but not via JS architectures yet. 
-- 📫 How to reach me: kevinkaodevelops@gmail.com
+Hi I'm Kevin. I work on things here from time to time.
 
 <!---
 KevinDKao/KevinDKao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
